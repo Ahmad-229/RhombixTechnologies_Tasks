@@ -1,0 +1,14 @@
+pwd                     # current directory path
+ls                      # list file of current directry
+ls -l                   # detailed list with permissions
+ls -a                   # hidden files bhi dikhata hai
+ls -la                  # detailed + hidden files
+mkdir                   # make new directory
+touch file.txt          # create new empty file
+nano file.txt           # edit file
+cat                     #show content of file
+chmod                   # change permission of file and directory
+sudo su                 # for super user access
+df -h                   # display disk space usage
+yum                     #package management tool
+yum install htop        # real-time system-monitor and process-viewer command line utility for Linux
